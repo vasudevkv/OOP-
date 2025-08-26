@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeDrawing", "ShapeDrawing.csproj", "{A9F161C0-3931-A9D9-34FB-16C3224A0A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F161C0-3931-A9D9-34FB-16C3224A0A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F161C0-3931-A9D9-34FB-16C3224A0A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F161C0-3931-A9D9-34FB-16C3224A0A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F161C0-3931-A9D9-34FB-16C3224A0A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3575A636-86A2-4372-848C-15769C62C864}
+	EndGlobalSection
+EndGlobal

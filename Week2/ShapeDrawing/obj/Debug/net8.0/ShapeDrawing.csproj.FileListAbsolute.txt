@@ -1,0 +1,14 @@
+C:\C# introduction\Week2\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.exe
+C:\C# introduction\Week2\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.deps.json
+C:\C# introduction\Week2\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.runtimeconfig.json
+C:\C# introduction\Week2\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.dll
+C:\C# introduction\Week2\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.pdb
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.AssemblyInfoInputs.cache
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.AssemblyInfo.cs
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.csproj.CoreCompileInputs.cache
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.dll
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\refint\ShapeDrawing.dll
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.pdb
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.genruntimeconfig.cache
+C:\C# introduction\Week2\ShapeDrawing\obj\Debug\net8.0\ref\ShapeDrawing.dll

@@ -1,0 +1,14 @@
+C:\C# introduction\Week2\CounterTask\bin\Debug\net8.0\CounterTask.exe
+C:\C# introduction\Week2\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+C:\C# introduction\Week2\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+C:\C# introduction\Week2\CounterTask\bin\Debug\net8.0\CounterTask.dll
+C:\C# introduction\Week2\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\CounterTask.dll
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+C:\C# introduction\Week2\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll

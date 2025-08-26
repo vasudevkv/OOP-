@@ -1,0 +1,14 @@
+C:\C# introduction\VerificationTask\clock\bin\Debug\net8.0\Clock.exe
+C:\C# introduction\VerificationTask\clock\bin\Debug\net8.0\Clock.deps.json
+C:\C# introduction\VerificationTask\clock\bin\Debug\net8.0\Clock.runtimeconfig.json
+C:\C# introduction\VerificationTask\clock\bin\Debug\net8.0\Clock.dll
+C:\C# introduction\VerificationTask\clock\bin\Debug\net8.0\Clock.pdb
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\Clock.AssemblyInfoInputs.cache
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\Clock.AssemblyInfo.cs
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\Clock.csproj.CoreCompileInputs.cache
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\Clock.dll
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\refint\Clock.dll
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\Clock.pdb
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\Clock.genruntimeconfig.cache
+C:\C# introduction\VerificationTask\clock\obj\Debug\net8.0\ref\Clock.dll
