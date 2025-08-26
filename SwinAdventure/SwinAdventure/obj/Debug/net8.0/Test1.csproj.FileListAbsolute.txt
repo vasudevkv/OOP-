@@ -1,0 +1,51 @@
+C:/Projects/Clement/Test1/bin/Debug/net8.0/Test1.exe
+C:/Projects/Clement/Test1/bin/Debug/net8.0/Test1.deps.json
+C:/Projects/Clement/Test1/bin/Debug/net8.0/Test1.runtimeconfig.json
+C:/Projects/Clement/Test1/bin/Debug/net8.0/Test1.dll
+C:/Projects/Clement/Test1/bin/Debug/net8.0/Test1.pdb
+C:/Projects/Clement/Test1/bin/Debug/net8.0/SplashKitSDK.dll
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.csproj.AssemblyReference.cache
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.AssemblyInfoInputs.cache
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.AssemblyInfo.cs
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.csproj.CoreCompileInputs.cache
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.csproj.Up2Date
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.dll
+C:/Projects/Clement/Test1/obj/Debug/net8.0/refint/Test1.dll
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.pdb
+C:/Projects/Clement/Test1/obj/Debug/net8.0/Test1.genruntimeconfig.cache
+C:/Projects/Clement/Test1/obj/Debug/net8.0/ref/Test1.dll
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/bin/Debug/net8.0/Test1
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/bin/Debug/net8.0/Test1.deps.json
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/bin/Debug/net8.0/Test1.runtimeconfig.json
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/bin/Debug/net8.0/Test1.dll
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/bin/Debug/net8.0/Test1.pdb
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/bin/Debug/net8.0/SplashKitSDK.dll
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.csproj.AssemblyReference.cache
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.AssemblyInfoInputs.cache
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.AssemblyInfo.cs
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.csproj.CoreCompileInputs.cache
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.csproj.Up2Date
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.dll
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/refint/Test1.dll
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.pdb
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/Test1.genruntimeconfig.cache
+/Users/clementraju/Documents/sem3/OOP/Custom Program/SwinAdventure/obj/Debug/net8.0/ref/Test1.dll
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\bin\Debug\net8.0\Test1.exe
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\bin\Debug\net8.0\Test1.deps.json
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\bin\Debug\net8.0\Test1.runtimeconfig.json
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\bin\Debug\net8.0\Test1.dll
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\bin\Debug\net8.0\Test1.pdb
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\bin\Debug\net8.0\SplashKitSDK.dll
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.csproj.AssemblyReference.cache
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.AssemblyInfoInputs.cache
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.AssemblyInfo.cs
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.csproj.CoreCompileInputs.cache
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.csproj.Up2Date
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.dll
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\refint\Test1.dll
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.pdb
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\Test1.genruntimeconfig.cache
+C:\Users\vasud\Desktop\OOPSEM2\SwinAdventure\SwinAdventure\obj\Debug\net8.0\ref\Test1.dll
