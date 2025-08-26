@@ -1,0 +1,14 @@
+C:\C# introduction\Lab Demonstration\app\bin\Debug\net8.0\app.exe
+C:\C# introduction\Lab Demonstration\app\bin\Debug\net8.0\app.deps.json
+C:\C# introduction\Lab Demonstration\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\C# introduction\Lab Demonstration\app\bin\Debug\net8.0\app.dll
+C:\C# introduction\Lab Demonstration\app\bin\Debug\net8.0\app.pdb
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\app.dll
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\refint\app.dll
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\app.pdb
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\C# introduction\Lab Demonstration\app\obj\Debug\net8.0\ref\app.dll
